@@ -128,7 +128,7 @@ header{
         display: none;
     }
     .Portada{
-        height: calc(100vh - 80px);
+        height: calc(100vh - 30px);
     }
     .Menu-Celulares{
         opacity: 1;
